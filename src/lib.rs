@@ -1,7 +1,7 @@
 use std::io::stdin;
 use std::collections::LinkedList;
 
-pub struct Scanner<> {
+pub struct Scanner {
     tokens: LinkedList<String>
 }
 
